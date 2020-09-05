@@ -1,0 +1,12 @@
+Date: 5-Sep-2020
+  Changes:
+    1. Added directory '20200905'.
+    2. Time period is 30 days.
+    3. Search strings are:
+      "India's Stock Exchanges": ["nifty50", "sensex"],
+      "Stock Exchanges of US": ["nasdaq", "nyse"],
+      "Companies in Nifty50 in 202008": ["reliance industries", "ril", "hdfc", "infy", "tcs"],
+      "Ace investors": ["rakesh jhunjhunwala", "warren buffett"],
+      "Geopolitical groups": ["g7", "g20", "brics"],
+      "Others": ["war"]
+
