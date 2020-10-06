@@ -1,0 +1,8 @@
+{
+    "India's Stock Exchanges": ["nifty50", "sensex"],
+    "Stock Exchanges of US": ["nasdaq", "nyse"],
+    "Companies in Nifty50 in 202008": ["reliance industries", "ril", "hdfc", "infy", "tcs"],
+    "Ace investors": ["rakesh jhunjhunwala", "warren buffett"],
+    "Geopolitical groups": ["g7", "g20", "brics"],
+    "Others": ["war"]
+}
